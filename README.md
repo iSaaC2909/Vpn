@@ -1,6 +1,5 @@
-# DSVPN
 
-A simple, secure, and efficient VPN implementation written in C. DSVPN provides both client and server functionality with strong encryption and minimal overhead.
+A simple, secure, and efficient VPN implementation written in C.  provides both client and server functionality with strong encryption and minimal overhead.
 
 ## Features
 
@@ -104,7 +103,3 @@ sudo ./dsvpn client vpn.key server.example.com 443 auto auto auto auto
 ## License
 
 This project is open source software. See the LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. 
